@@ -1,2 +1,1 @@
-# tap-yelb-catalog
-Tap 1.3 yelb catalog components
+Sample org structure for application catalog
